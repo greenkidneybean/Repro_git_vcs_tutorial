@@ -385,6 +385,11 @@ pertain to science. Here are just a few examples to help get you started:
 - [Version control for scientific research](http://blogs.biomedcentral.com/bmcblog/2013/02/28/version-control-for-scientific-research/)
 - [A quick introduction to Git and GitHub (Data Carpentry for Biologists)](http://datacarpentry.org/semester-biology/START-for-self-guided-students/)
 
+Some new section
+----------------
+
+lorem ipsum lorem ipsum lorem ipsum
+
 References
 ----------
 
